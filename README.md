@@ -62,7 +62,7 @@ Transformer models learn context across the whole amino-acid sequence and may an
 | **ECPICK** | Convolutional network with hierarchical EC-level layers | Contemporary deep-learning baseline |
 
 <p align="center">
-  <img src="images/deepectransformer_architecture.png" width="150" alt="DeepECtransformer architecture">
+  <img src="images/deepectransformer_architecture.png" width="260" alt="DeepECtransformer architecture">
   <br>
   <em>DeepECtransformer architecture.</em>
 </p>
