@@ -7,3 +7,7 @@ benchmark_curation/diamond/uniref90-2021_03.dmnd
 benchmark_curation/benchmark_set/*_intermediates/
 benchmark_curation/benchmark_set/*.fasta
 
+
+# Python cache files
+__pycache__/
+*.pyc

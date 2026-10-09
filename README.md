@@ -196,7 +196,7 @@ Inputs are protein sequences in FASTA format; outputs are predicted EC numbers. 
 ├── benchmark_curation/       # Benchmark construction scripts, logs, and summary plots
 ├── Results/
 │   ├── result_val/           # Predictions and F1 scores on the validation set
-│   └── result_benchamrk/     # Predictions and F1 scores for each body site (CPU and GPU runs)
+│   └── result_benchmark/     # Predictions and F1 scores for each body site (CPU and GPU runs)
 ├── images/                   # README figures
 └── DeepECtransformer_Benchmarking_AGJTJLK_ecen766-finalProjectSpr2025.pdf   # Full report
 ```
