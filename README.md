@@ -92,12 +92,16 @@ Transformer models learn context across the whole amino-acid sequence and may an
   <tr>
     <th>Predicted ORFs</th>
     <th>EC-labeled sequences</th>
-    <th>Unique EC numbers</th>
   </tr>
   <tr>
-    <td align="center"><img src="benchmark_curation/orf_counts_by_site.png" width="250" alt="Predicted ORFs by body site"></td>
-    <td align="center"><img src="benchmark_curation/benchmark_set/ec_labeled_sequences_by_body_site.png" width="250" alt="EC-labeled sequences by body site"></td>
-    <td align="center"><img src="benchmark_curation/benchmark_set/unique_ecs_by_site_and_total.png" width="250" alt="Unique EC numbers by body site"></td>
+    <td align="center"><img src="benchmark_curation/orf_counts_by_site.png" width="380" alt="Predicted ORFs by body site"></td>
+    <td align="center"><img src="benchmark_curation/benchmark_set/ec_labeled_sequences_by_body_site.png" width="380" alt="EC-labeled sequences by body site"></td>
+  </tr>
+  <tr>
+    <th colspan="2">Unique EC numbers</th>
+  </tr>
+  <tr>
+    <td colspan="2" align="center"><img src="benchmark_curation/benchmark_set/unique_ecs_by_site_and_total.png" width="380" alt="Unique EC numbers by body site"></td>
   </tr>
 </table>
 </div>
